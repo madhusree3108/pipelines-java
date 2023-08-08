@@ -1,5 +1,3 @@
-[3:06 PM] Boruah Manjima (BGSW/PJ-ETA-FTP1)
-
 pipeline {
 
     agent any
